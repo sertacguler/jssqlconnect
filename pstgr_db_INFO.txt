@@ -1,0 +1,5 @@
+user: 'postgres',
+host: 'database-1.c9gljlz5nsgd.us-east-2.rds.amazonaws.com',
+database: 'postgres',
+password: '7378221aws',
+port: 5432,
