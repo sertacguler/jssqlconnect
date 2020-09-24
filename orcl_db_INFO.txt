@@ -1,0 +1,6 @@
+hostname -> database-2.c9gljlz5nsgd.us-east-2.rds.amazonaws.com
+
+port -> 1521
+
+username -> admin
+password -> 7378221aws
