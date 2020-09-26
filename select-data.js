@@ -10,10 +10,7 @@ const client = new Client({
 
 client.connect()
 
-const query = `
-SELECT *
-FROM CONTACT
-`
+const query = `SELECT * FROM CONTACT`
 
 client.query(query, (err, res) => {
     if (err) {
